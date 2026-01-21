@@ -43,7 +43,7 @@ document.getElementById("loginForm").addEventListener("submit", function (e) {
 
     // Validar expiración
     if (now > new Date(user.expiresAt)) {
-        message.textContent = "Tu cuenta ha vencido, ponte en contacto con tu proveedor àra renovar tu cuenta.";
+        message.textContent = "Tu cuenta ha vencido, ponte en contacto con tu proveedor para renovar tu cuenta.";
         return;
     }
 
