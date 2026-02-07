@@ -2,7 +2,8 @@
 const USERS = [
     { username: "abcd", password: "2222soft26", expiresAt: new Date("2026-02-21"), emails: ["ahemun.karimxol72@outlook.com","yousef.rahnutek54@outlook.com","mashira.farouqsen47@outlook.com","khalden.safiyroth83@outlook.com","ramset.abunelik36@outlook.com","taruk.mansurhelix91@outlook.com","osirah.hadimuret58@outlook.com","fayzah.nubetaris29@outlook.com","sahira.menqorix03@outlook.com","hadiun.gaberotem74@outlook.com","leilam.shekharu88@outlook.com","danyet.elmasrionq52@outlook.com","malika.safratuk97@outlook.com","sirhan.elneferux44@outlook.com","amunet.rafasheli63@outlook.com","zaynah.kemuret45@outlook.com","naktib.selimoraq19@outlook.com","nouren.hapuletar11@outlook.com"] },
     { username: "soft", password: "6789", expiresAt: new Date("2026-02-22"), emails: [] },
-    { username: "adfaf", password: "2929soft1", expiresAt: new Date("2026-03-27"), emails: ["floresfranz270@gmail.com","firor280+amehd3@gmail.com","firor280+ahmed43@gmail.com","firor280+samun.elqaritox@gmail.com","firor280+zayanakhen@gmail.com"] }
+    { username: "adfaf", password: "2929soft1", expiresAt: new Date("2026-03-27"), emails: ["floresfranz270@gmail.com","firor280+amehd3@gmail.com","firor280+ahmed43@gmail.com","firor280+samun.elqaritox@gmail.com","firor280+zayanakhen@gmail.com"] },
+    { username: "barnard", password: "soft6226", expiresAt: new Date("2026-03-09"), emails: ["mohamed.ali_1992@outlook.com","karim.elsayed_1998@outlook.com","youssef.abdelrahman_1996@outlook.com","omar.mahmoud_1995@outlook.com","khaled.hussein_1991@outlook.com","mahmoud.salah_1993@outlook.com","ibrahim.fathy_1997@outlook.com","mostafa.nasser_1990@outlook.com","amr.ramadan_1999@outlook.com","tarek.amin_1994@outlook.com"] }
 ];
 
 const MAX_ATTEMPTS = 1000000;
